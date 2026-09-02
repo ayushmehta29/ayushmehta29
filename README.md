@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:172554&amp;height=180&amp;section=header&amp;text=Hey,%20I'm%20Ayush%20Mehta&amp;fontSize=48&amp;fontColor=38BDF8&amp;fontAlignY=42&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux&amp;descAlignY=62&amp;descColor=94a3b8&amp;descSize=16&amp;animation=fadeIn" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,100:172554\&height=180\&section=header\&text=Hey,%20I'm%20Ayush%20Mehta\&fontSize=48\&fontColor=38BDF8\&fontAlignY=42\&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux\&descAlignY=62\&descColor=94a3b8\&descSize=16\&animation=fadeIn)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=23\&pause=1200\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;color=38BDF8&amp;style=for-the-badge&amp;label=VISITORS&amp;labelColor=0d1117" />
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=38BDF8\&style=for-the-badge\&label=VISITORS\&labelColor=0d1117)
 
 </div>
 
@@ -29,9 +29,9 @@ focus:                Cloud Computing · DevOps · Automation
 cloud:                AWS
 containers:            Docker · Kubernetes
 infrastructure:       Terraform
-ci_cd:                 GitHub Actions · Jenkins
-operating_system:     Linux
-currently_learning:   Kubernetes · Terraform · CI/CD
+ci_cd:                GitHub Actions · Jenkins
+operating_system:    Linux
+currently_learning:  Kubernetes · Terraform · CI/CD
 philosophy:           "Automate the boring stuff."
 goal:                 Cloud / DevOps Engineer
 ```
@@ -73,7 +73,9 @@ I'm exploring AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&amp;perline=8" />
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![GCP](https://skillicons.dev/icons?i=gcp)
 
 </div>
 
@@ -83,7 +85,8 @@ I'm exploring AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&amp;perline=8" />
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 </div>
 
@@ -93,7 +96,8 @@ I'm exploring AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins&amp;perline=8" />
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
 </div>
 
@@ -103,7 +107,8 @@ I'm exploring AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible&amp;perline=8" />
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Ansible](https://skillicons.dev/icons?i=ansible)
 
 </div>
 
@@ -113,7 +118,9 @@ I'm exploring AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python&amp;perline=8" />
+![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Python](https://skillicons.dev/icons?i=python)
 
 </div>
 
@@ -123,7 +130,10 @@ I'm exploring AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;perline=8" />
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 </div>
 
@@ -365,17 +375,11 @@ Production-Ready Cloud Engineer
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="50"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="50"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="50"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 </div>
 
