@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0EA5E9&height=180&section=header&text=Hey,%20I'm%20Ayush%20Mehta&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:0EA5E9&amp;height=180&amp;section=header&amp;text=Hey,%20I'm%20Ayush%20Mehta&amp;fontSize=42&amp;fontColor=38BDF8&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux&amp;descAlignY=58&amp;descSize=18&amp;descColor=94A3B8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ayush+Mehta;Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Ayush+Mehta;Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -249,6 +249,6 @@ Production-Ready Cloud Engineer
 sudo make it work → automate it → deploy it → monitor it
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,100:0D1117&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
