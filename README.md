@@ -1,23 +1,15 @@
-<!--
-  README.md — GitHub Profile
-  Replace the following placeholders before publishing:
-    YOUR_GITHUB_USERNAME   -> your GitHub username (used in visitor counter & links)
-    YOUR_LINKEDIN_USERNAME -> your LinkedIn username
-    YOUR_EMAIL@example.com -> your email address
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0EA5E9&height=180&section=header&text=Hey,%20I'm%20Ayush%20Mehta&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ayush+Mehta;Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Visitor counter — replace YOUR_GITHUB_USERNAME below -->
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=0EA5E9&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=ayushmehta29&label=VISITORS&color=0EA5E9&style=flat-square)
 
 </div>
 
@@ -51,7 +43,7 @@ I like turning manual, repetitive processes into automated, reliable systems —
 
 | PID  | Process                                   |    Status   |
 | ---- | ------------------------------------------ | :---------: |
-| `01` | AWS Cloud fundamentals & services         | 🟡 Learning |
+| `01` | AWS Cloud fundamentals & services         |  🟢 Active  |
 | `02` | Docker & containerized applications       |  🟢 Active  |
 | `03` | CI/CD pipelines with GitHub Actions       | 🟡 Learning |
 | `04` | Kubernetes & container orchestration      | 🟡 Learning |
@@ -239,9 +231,9 @@ Production-Ready Cloud Engineer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EA5E9)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:YOUR_EMAIL@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/ayushmehta29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EA5E9)](https://www.linkedin.com/in/ayush-mehta-82201438a/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:mehtaayush431@gmail.com)
 
 </div>
 
