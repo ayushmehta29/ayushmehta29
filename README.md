@@ -1,12 +1,27 @@
-# ☁️ Ayush Mehta
+<!--
+  README.md — GitHub Profile
+  Replace the following placeholders before publishing:
+    YOUR_GITHUB_USERNAME   -> your GitHub username (used in visitor counter & links)
+    YOUR_LINKEDIN_USERNAME -> your LinkedIn username
+    YOUR_EMAIL@example.com -> your email address
+-->
 
-![Header](https://capsule-render.vercel.app/api?type=waving%26color=0:0d1117,100:172554%26height=180%26section=header%26text=Hey,%20I'm%20Ayush%20Mehta%26fontSize=48%26fontColor=38BDF8%26fontAlignY=42%26desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux%26descAlignY=62%26descColor=94a3b8%26descSize=16%26animation=fadeIn)
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%20Mono%26weight=600%26size=23%26pause=1200%26color=38BDF8%26center=true%26vCenter=true%26width=750%26lines=Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0EA5E9&height=180&section=header&text=Hey,%20I'm%20Ayush%20Mehta&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Linux&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME%26color=38BDF8%26style=for-the-badge%26label=VISITORS%26labelColor=0d1117)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+%7C+learning+to+ship+at+scale;AWS+%7C+building+in+the+cloud;Docker+%7C+containerize+everything;Linux+%7C+where+the+servers+live;CI%2FCD+%7C+automate%2C+deploy%2C+repeat" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+<!-- Visitor counter — replace YOUR_GITHUB_USERNAME below -->
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=0EA5E9&style=flat-square)
+
+</div>
+
+<br/>
 
 ## 👋 About Me
 
@@ -16,7 +31,7 @@ status:               B.Tech CSE Student
 focus:                Cloud Computing · DevOps · Automation
 cloud:                AWS
 containers:           Docker · Kubernetes
-infrastructure:      Terraform
+infrastructure:       Terraform
 ci_cd:                GitHub Actions · Jenkins
 operating_system:     Linux
 currently_learning:   Kubernetes · Terraform · CI/CD
@@ -24,20 +39,18 @@ philosophy:           "Automate the boring stuff."
 goal:                 Cloud / DevOps Engineer
 ```
 
-I'm a Computer Science student building my way into **Cloud Computing and DevOps**.
+I'm a Computer Science student with a growing focus on **cloud computing and DevOps**. Most of my current work centers on learning **AWS** fundamentals, sharpening my **Linux** and shell skills, and getting comfortable building and shipping **Docker** containers.
 
-My focus is on understanding how applications move from:
+Beyond the basics, I'm exploring **Kubernetes** for container orchestration and **Terraform** for treating infrastructure as code instead of manual setup. I'm also learning to design **CI/CD** pipelines that build, test, and deploy automatically whenever code changes.
 
-**Code → Container → Infrastructure → Deployment → Production**
+I like turning manual, repetitive processes into automated, reliable systems — and I'm building hands-on projects along the way to get real infrastructure experience, not just theory.
 
-I'm exploring **AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD** while building hands-on projects and learning how modern applications are deployed, automated and managed.
-
----
+<br/>
 
 ## 🚀 Currently Working On
 
 | PID  | Process                                   |    Status   |
-| ---- | ----------------------------------------- | :---------: |
+| ---- | ------------------------------------------ | :---------: |
 | `01` | AWS Cloud fundamentals & services         | 🟡 Learning |
 | `02` | Docker & containerized applications       |  🟢 Active  |
 | `03` | CI/CD pipelines with GitHub Actions       | 🟡 Learning |
@@ -45,86 +58,62 @@ I'm exploring **AWS, Linux, Docker, Kubernetes, Infrastructure as Code and CI/CD
 | `05` | Terraform & Infrastructure as Code        | 🟡 Learning |
 | `06` | Linux, networking & server administration |  🟢 Active  |
 
----
+<br/>
 
-# ☁️ Cloud & DevOps Stack
+## ☁️ Cloud & DevOps Stack
 
-## ☁️ Cloud Platforms
+**Cloud Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud platforms" />
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![GCP](https://skillicons.dev/icons?i=gcp)
+**Containers & Orchestration**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers and orchestration" />
 
-## 🐳 Containers & Orchestration
+**CI/CD & Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins" alt="CI/CD and automation" />
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+**Infrastructure as Code**
+<br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Infrastructure as code" />
 
-## ⚙️ CI/CD & Automation
+**Linux & Scripting**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python" alt="Linux and scripting" />
 
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
+**Development & Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development and version control" />
 
-## 🏗️ Infrastructure as Code
+<br/>
 
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Ansible](https://skillicons.dev/icons?i=ansible)
-
-## 🐧 Linux & Scripting
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Python](https://skillicons.dev/icons?i=python)
-
-## 🔧 Development & Version Control
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-
----
-
-# 🧠 DevOps Workflow
+## 🧠 DevOps Workflow
 
 ```text
-┌──────────────┐
-│   Developer  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│     Git      │
-│   GitHub     │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│    CI/CD     │
-│   Actions    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│    Docker    │
-│   Container  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ Kubernetes / │
-│     AWS      │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   Production │
-└──────────────┘
+   Developer
+      │
+      ▼
+   Git / GitHub
+      │
+      ▼
+     CI/CD
+      │
+      ▼
+    Docker
+      │
+      ▼
+Kubernetes / AWS
+      │
+      ▼
+  Production
 ```
 
----
+<br/>
 
-# 📊 Skill Levels
+## 📊 Skill Levels
+
+> Starter self-estimates — not certified or exam-verified. Update these as you grow.
 
 ```text
 AWS             ██████████████░░░░░░  70%   EC2 · S3 · IAM · VPC
@@ -139,9 +128,9 @@ Networking      ████████████░░░░░░░░  60
 Python          ██████████████░░░░░░  70%   Scripting · Automation
 ```
 
----
+<br/>
 
-# 🏆 What I'm Building
+## 🏆 What I'm Building
 
 ```text
 [✓] Cloud-based applications on AWS
@@ -154,132 +143,120 @@ Python          ██████████████░░░░░░  70
 [→] Monitoring & observability
 ```
 
----
+<br/>
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
 ### ☁️ AWS Cloud Deployment
-
-Deploying a web application on AWS while learning cloud infrastructure, compute, storage, networking and IAM.
-
-`AWS` · `EC2` · `S3` · `IAM` · `Linux`
-
----
+Deploying a web application on AWS while learning cloud infrastructure — compute, storage, networking, and IAM.
+`AWS · EC2 · S3 · IAM · Linux`
 
 ### 🐳 Dockerized Application
-
-Containerizing an application to create a consistent development and deployment environment.
-
-`Docker` · `Linux` · `Docker Compose`
-
----
+Containerizing an application to create a consistent development and deployment environment across machines.
+`Docker · Linux · Docker Compose`
 
 ### ⚙️ CI/CD Pipeline
-
-Building an automated pipeline that runs tests, builds applications and prepares them for deployment whenever code changes.
-
-`GitHub Actions` · `Git` · `CI/CD`
-
----
+Building an automated pipeline that runs tests, builds the application, and prepares it for deployment on every code change.
+`GitHub Actions · Git · CI/CD`
 
 ### 🏗️ Infrastructure as Code
-
-Learning to provision and manage cloud infrastructure using declarative configuration instead of manual setup.
-
-`Terraform` · `AWS` · `IaC`
-
----
+Learning to provision and manage cloud infrastructure through declarative configuration instead of manual setup.
+`Terraform · AWS · IaC`
 
 ### ☸️ Kubernetes Deployment
+Experimenting with container orchestration — learning how applications are deployed, scaled, and exposed in a cluster.
+`Kubernetes · Docker · YAML`
 
-Experimenting with container orchestration using Kubernetes and learning how applications are deployed, scaled and exposed.
+### 📊 Monitoring & Observability
+Exploring application and infrastructure monitoring to understand system health, logs, metrics, and failures.
+`CloudWatch · Linux · Monitoring`
 
-`Kubernetes` · `Docker` · `YAML`
+<br/>
 
----
+## 🧩 Core Concepts I'm Learning
 
-### 🔍 Monitoring & Observability
+| Area             | Concepts                                             |
+| ---------------- | ----------------------------------------------------- |
+| ☁️ Cloud         | EC2 · S3 · IAM · VPC · Load Balancing · Auto Scaling  |
+| 🐳 Containers    | Docker · Images · Containers · Volumes · Networks     |
+| ☸️ Orchestration | Kubernetes · Pods · Services · Deployments            |
+| ⚙️ CI/CD         | Pipelines · Automated Testing · Build · Deploy        |
+| 🏗️ IaC          | Terraform · Providers · Resources · State              |
+| 🐧 Linux         | Shell · Processes · Permissions · Networking          |
+| 🌐 Networking    | TCP/IP · DNS · HTTP/HTTPS · Ports · VPC                |
+| 📊 Monitoring    | Logs · Metrics · Alerts · CloudWatch                   |
+| 🔐 Security      | IAM · Least Privilege · Secrets · Access Control       |
 
-Exploring application and infrastructure monitoring to understand system health, logs, metrics and failures.
+<br/>
 
-`CloudWatch` · `Linux` · `Monitoring`
+## 🎓 Education
 
----
+| Stage                                      | Details                                    |
+| ------------------------------------------- | ------------------------------------------- |
+| 🎓 B.Tech, Computer Science & Engineering  | Currently pursuing                          |
+| 📘 Core Subjects                           | DSA · DBMS · OS · Computer Networks · OOP   |
+| ☁️ Current Focus                           | Cloud Computing · DevOps · AWS              |
+| 🎯 Career Goal                             | Cloud Engineer / DevOps Engineer            |
 
-# 🧩 Core Concepts I'm Learning
+<br/>
 
-| Area                 | Concepts                                             |
-| -------------------- | ---------------------------------------------------- |
-| ☁️ **Cloud**         | EC2 · S3 · IAM · VPC · Load Balancing · Auto Scaling |
-| 🐳 **Containers**    | Docker · Images · Containers · Volumes · Networks    |
-| ☸️ **Orchestration** | Kubernetes · Pods · Services · Deployments           |
-| ⚙️ **CI/CD**         | Pipelines · Automated Testing · Build · Deploy       |
-| 🏗️ **IaC**          | Terraform · Providers · Resources · State            |
-| 🐧 **Linux**         | Shell · Processes · Permissions · Networking         |
-| 🌐 **Networking**    | TCP/IP · DNS · HTTP/HTTPS · Ports · VPC              |
-| 📊 **Monitoring**    | Logs · Metrics · Alerts · CloudWatch                 |
-| 🔐 **Security**      | IAM · Least Privilege · Secrets · Access Control     |
-
----
-
-# 🎓 Education
-
-| Stage                                         | Details                                   |
-| --------------------------------------------- | ----------------------------------------- |
-| 🎓 **B.Tech, Computer Science & Engineering** | Currently pursuing                        |
-| 📘 **Core Subjects**                          | DSA · DBMS · OS · Computer Networks · OOP |
-| ☁️ **Current Focus**                          | Cloud Computing · DevOps · AWS            |
-| 🎯 **Career Goal**                            | Cloud Engineer / DevOps Engineer          |
-
----
-
-# 📈 My DevOps Roadmap
+## 📈 My DevOps Roadmap
 
 ```text
-Linux
-  │
-  ▼
-Git & GitHub
-  │
-  ▼
-Networking
-  │
-  ▼
-AWS / Cloud
-  │
-  ▼
-Docker
-  │
-  ▼
-CI/CD
-  │
-  ▼
-Terraform
-  │
-  ▼
-Kubernetes
-  │
-  ▼
-Monitoring
-  │
-  ▼
+        Linux
+          │
+          ▼
+    Git & GitHub
+          │
+          ▼
+     Networking
+          │
+          ▼
+     AWS / Cloud
+          │
+          ▼
+        Docker
+          │
+          ▼
+        CI/CD
+          │
+          ▼
+      Terraform
+          │
+          ▼
+     Kubernetes
+          │
+          ▼
+      Monitoring
+          │
+          ▼
 Production-Ready Cloud Engineer
 ```
 
----
+<br/>
 
-# 🔗 Let's Connect
+## 🔗 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EA5E9)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:YOUR_EMAIL@example.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+</div>
 
----
+<br/>
 
-# ☁️ Building in the cloud. Automating everything. Learning every day.
+<div align="center">
+
+☁️ Building in the cloud. Automating everything. Learning every day.
 
 **Cloud · DevOps · Automation · Infrastructure · Deployment**
 
-> `sudo make it work → automate it → deploy it → monitor it`
+```text
+sudo make it work → automate it → deploy it → monitor it
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0D1117&height=100&section=footer" width="100%"/>
+
+</div>
