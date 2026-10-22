@@ -57,7 +57,7 @@ I like turning manual, repetitive processes into automated, reliable systems —
 
 **Cloud Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud platforms" />
+<img src="https://skillicons.dev/icons?i=aws" alt="Cloud platforms" />
 
 **Containers & Orchestration**
 <br/>
