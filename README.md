@@ -9,8 +9,6 @@
 
 <br/>
 
-<!-- Visitor counter — replace YOUR_GITHUB_USERNAME below -->
-![Visitors](https://komarev.com/ghpvc/?username=ayushmehta29&label=VISITORS&color=0EA5E9&style=flat-square)
 
 </div>
 
